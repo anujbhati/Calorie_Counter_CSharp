@@ -1,0 +1,28 @@
+F:\Mobile Solutions Development\Software Development Techniques\Assignment\Calorie_Counter\Calorie_Counter\bin\Debug\Calorie_Counter.exe.config
+F:\Mobile Solutions Development\Software Development Techniques\Assignment\Calorie_Counter\Calorie_Counter\bin\Debug\Calorie_Counter.exe
+F:\Mobile Solutions Development\Software Development Techniques\Assignment\Calorie_Counter\Calorie_Counter\bin\Debug\Calorie_Counter.pdb
+F:\Mobile Solutions Development\Software Development Techniques\Assignment\Calorie_Counter\Calorie_Counter\obj\Debug\Calorie_Counter.csprojResolveAssemblyReference.cache
+F:\Mobile Solutions Development\Software Development Techniques\Assignment\Calorie_Counter\Calorie_Counter\obj\Debug\MainWindow.g.cs
+F:\Mobile Solutions Development\Software Development Techniques\Assignment\Calorie_Counter\Calorie_Counter\obj\Debug\App.g.cs
+F:\Mobile Solutions Development\Software Development Techniques\Assignment\Calorie_Counter\Calorie_Counter\obj\Debug\Calorie_Counter_MarkupCompile.cache
+F:\Mobile Solutions Development\Software Development Techniques\Assignment\Calorie_Counter\Calorie_Counter\obj\Debug\Calorie_Counter_MarkupCompile.lref
+F:\Mobile Solutions Development\Software Development Techniques\Assignment\Calorie_Counter\Calorie_Counter\obj\Debug\MainWindow.baml
+F:\Mobile Solutions Development\Software Development Techniques\Assignment\Calorie_Counter\Calorie_Counter\obj\Debug\Calorie_Counter.g.resources
+F:\Mobile Solutions Development\Software Development Techniques\Assignment\Calorie_Counter\Calorie_Counter\obj\Debug\Calorie_Counter.Properties.Resources.resources
+F:\Mobile Solutions Development\Software Development Techniques\Assignment\Calorie_Counter\Calorie_Counter\obj\Debug\Calorie_Counter.csproj.GenerateResource.Cache
+F:\Mobile Solutions Development\Software Development Techniques\Assignment\Calorie_Counter\Calorie_Counter\obj\Debug\Calorie_Counter.exe
+F:\Mobile Solutions Development\Software Development Techniques\Assignment\Calorie_Counter\Calorie_Counter\obj\Debug\Calorie_Counter.pdb
+D:\Calorie_Counter\Calorie_Counter\bin\Debug\Calorie_Counter.exe.config
+D:\Calorie_Counter\Calorie_Counter\obj\Debug\Calorie_Counter.exe
+D:\Calorie_Counter\Calorie_Counter\obj\Debug\Calorie_Counter.pdb
+D:\Calorie_Counter\Calorie_Counter\bin\Debug\Calorie_Counter.exe
+D:\Calorie_Counter\Calorie_Counter\bin\Debug\Calorie_Counter.pdb
+D:\Calorie_Counter\Calorie_Counter\obj\Debug\Calorie_Counter.csprojResolveAssemblyReference.cache
+D:\Calorie_Counter\Calorie_Counter\obj\Debug\MainWindow.g.cs
+D:\Calorie_Counter\Calorie_Counter\obj\Debug\App.g.cs
+D:\Calorie_Counter\Calorie_Counter\obj\Debug\Calorie_Counter_MarkupCompile.cache
+D:\Calorie_Counter\Calorie_Counter\obj\Debug\Calorie_Counter_MarkupCompile.lref
+D:\Calorie_Counter\Calorie_Counter\obj\Debug\MainWindow.baml
+D:\Calorie_Counter\Calorie_Counter\obj\Debug\Calorie_Counter.g.resources
+D:\Calorie_Counter\Calorie_Counter\obj\Debug\Calorie_Counter.Properties.Resources.resources
+D:\Calorie_Counter\Calorie_Counter\obj\Debug\Calorie_Counter.csproj.GenerateResource.Cache
